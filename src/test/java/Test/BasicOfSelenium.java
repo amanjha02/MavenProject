@@ -12,5 +12,9 @@ public class BasicOfSelenium {
 	public void Test1() {
 		System.out.println("Test1S");
 	}
+	@Test
+	public void Test3() {
+		System.out.println("Test3");
+	}
 
 }
