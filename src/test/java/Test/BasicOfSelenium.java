@@ -26,5 +26,9 @@ public class BasicOfSelenium {
 	public void Test6() {
 		System.out.println("Test3");
 	}
+	@Test
+	public void Test7() {
+		System.out.println("Test3");
+	}
 
 }
