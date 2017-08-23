@@ -8,5 +8,9 @@ public class BasicOfSelenium {
 	public void TestSetup() {
 		System.out.println("Test");
 	}
+	@Test
+	public void Test1() {
+		System.out.println("Test1S");
+	}
 
 }
